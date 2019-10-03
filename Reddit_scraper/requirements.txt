@@ -1,0 +1,7 @@
+tweepy
+riotwatcher
+textblob
+pymongo
+gender-guesser
+praw
+pymysql
